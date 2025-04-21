@@ -1,4 +1,5 @@
 sunday
 friday
 monday
+thusday
 
