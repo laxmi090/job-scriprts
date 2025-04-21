@@ -2,4 +2,4 @@ sunday
 friday
 monday
 thusday
-
+thesday
