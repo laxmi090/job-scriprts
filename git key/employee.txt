@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Welcome message
+echo "Welcome to the Employee Information System!"
+
+# Ask for the employee's name
+read -p "Please enter your name: " employee_name
+
+# Ask for the employee's position
+read -p "Please enter your position: " employee_position
+
+# Display the collected information
+echo "Thank you, $employee_name. You are registered as $employee_position."
+echo "Have a great day!"
