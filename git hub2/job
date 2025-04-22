@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# A script to collect and display student details
+
+echo "Please enter the student's details below:"
+
+# Prompt for name
+read -p "Name: " name
+
+# Prompt for age
+read -p "Age: " age
+
+# Prompt for grade
+read -p "Grade: " grade
+
+# Prompt for student ID
+read -p "Student ID: " student_id
+
+# Display the entered details
+echo "---------------------------------------"
+echo "Student Details:"
+echo "Name: $name"
+echo "Age: $age"
+echo "Grade: $grade"
+echo "Student ID: $student_id"
+echo "---------------------------------------"
